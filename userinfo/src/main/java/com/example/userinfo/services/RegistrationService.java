@@ -1,4 +1,4 @@
-package main.java.com.example.userinfo.service;
+package com.example.userinfo.services;
 
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
